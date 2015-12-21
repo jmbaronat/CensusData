@@ -1,0 +1,59 @@
+This goes to out.txt
+4
+Peter King
+R
+NY
+2
+202-225-7896
+339 Cannon House Office Building
+http://peteking.house.gov
+Steve Israel
+D
+NY
+3
+202-225-3335
+2457 Rayburn House Office Building
+http://israel.house.gov
+Kirsten Gillibrand
+D
+NY
+Junior Seat
+202-224-4451
+478 Russell Senate Office Building
+http://www.gillibrand.senate.gov
+Charles Schumer
+D
+NY
+Senior Seat
+202-224-6542
+322 Hart Senate Office Building
+http://www.schumer.senate.gov
+Peter King
+R
+NY
+2
+202-225-7896
+339 Cannon House Office Building
+http://peteking.house.gov
+Kirsten Gillibrand
+D
+NY
+Junior Seat
+202-224-4451
+478 Russell Senate Office Building
+http://www.gillibrand.senate.gov
+ { "name": "Peter King", "party": "R", "state": "NY", "district": "2", "phone": "202-225-7896", "office": "339 Cannon House Office Building", "link": "http://peteking.house.gov"}, { "name": "Steve Israel", "party": "D", "state": "NY", "district": "3", "phone": "202-225-3335", "office": "2457 Rayburn House Office Building", "link": "http://israel.house.gov"}, { "name": "Kirsten Gillibrand", "party": "D", "state": "NY", "district": "Junior Seat", "phone": "202-224-4451", "office": "478 Russell Senate Office Building", "link": "http://www.gillibrand.senate.gov"}, { "name": "Charles Schumer", "party": "D", "state": "NY", "district": "Senior Seat", "phone": "202-224-6542", "office": "322 Hart Senate Office Building", "link": "http://www.schumer.senate.gov"}, 
+Representative Report
+
+Name                Party State       District        Phone
+----                ----- -----       --------        -----
+Peter King              R NY                 2 202-225-7896
+Steve Israel            D NY                 3 202-225-3335
+Kirsten Gillibrand      D NY       Junior Seat 202-224-4451
+Charles Schumer         D NY       Senior Seat 202-224-6542
+
+Party Summary
+
+Democrats   : 3 (75.00%)
+Republicans : 1 (25.00%)
+Other       : 0 (0.00%)

@@ -1,0 +1,29 @@
+4
+Peter King
+R
+NY
+2
+202-225-7896
+339 Cannon House Office Building
+http://peteking.house.gov
+Steve Israel
+D
+NY
+3
+202-225-3335
+2457 Rayburn House Office Building
+http://israel.house.gov
+Kirsten Gillibrand
+D
+NY
+Junior Seat
+202-224-4451
+478 Russell Senate Office Building
+http://www.gillibrand.senate.gov
+Charles Schumer
+D
+NY
+Senior Seat
+202-224-6542
+322 Hart Senate Office Building
+http://www.schumer.senate.gov
